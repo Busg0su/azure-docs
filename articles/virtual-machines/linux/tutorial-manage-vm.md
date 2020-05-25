@@ -59,6 +59,7 @@ az vm create \
     --name myVM \
     --image UbuntuLTS \
     --admin-username azureuser \
+    --admin-password azurepassword \
     --generate-ssh-keys
 ```
 
